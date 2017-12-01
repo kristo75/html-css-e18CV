@@ -1,3 +1,13 @@
 UX design - all about the end user.
 Make it easy and simple to read and
 navigate.
+
+
+HTML and CSS
+Build a website to host codeclan experience.
+- list of projects with links to github
+- name
+- contact details
+- a statement
+- work experience
+- skill and hobbies

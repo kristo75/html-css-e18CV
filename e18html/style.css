@@ -1,0 +1,27 @@
+header{
+  background-color: #4f90ea
+}
+header, footer {
+  width: 80%;
+  background-color: #4f90ea
+}
+
+#contents {
+  width: 80%;
+  margin: 40px auto;
+}
+
+#container {
+background-color: #6d9ce8;
+display: flex;
+}
+
+nav {
+  width: 20%;
+  background-color: #aeb3ba
+}
+
+main {
+  width: 60%;
+  background-color: #4f90ea
+}
