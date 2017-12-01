@@ -1,9 +1,9 @@
 header{
-  background-color: #4f90ea
+  background-color: #4f90ea;
 }
 header, footer {
-  width: 80%;
-  background-color: #4f90ea
+
+  background-color: red;
 }
 
 #contents {
@@ -12,16 +12,16 @@ header, footer {
 }
 
 #container {
-background-color: #6d9ce8;
+background-color: red;
 display: flex;
 }
 
 nav {
   width: 20%;
-  background-color: #aeb3ba
+  background-color: #aeb3ba;
 }
 
 main {
-  width: 60%;
-  background-color: #4f90ea
+  width: 80%;
+  background-color: #4f90ea;
 }
